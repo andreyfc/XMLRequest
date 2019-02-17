@@ -1,0 +1,10 @@
+<soapenv:Envelope xmlns:soapenv = "http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://www.ahgora.com.br/ws">
+ <soapenv:Header/>
+ <soapenv:Body>
+    <ws:obterStatusEquipamentos>
+       <hash>cdc5692930bc8807d19e0ab6c2958f81</hash>
+       <mostrar_ocultos>false</mostrar_ocultos>
+       <numero_serie>00010000280005978</numero_serie>
+    </ws:obterStatusEquipamentos>
+ </soapenv:Body> 
+</soapenv:Envelope>
