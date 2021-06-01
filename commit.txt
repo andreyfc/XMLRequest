@@ -1,0 +1,13 @@
+ git init
+ git config --global user.email "Your email"
+ git config --global user.name "Andrey"
+
+ git clone
+
+ cd "folder name"
+
+ git add .
+
+ git commit -m "primeiro commit!"
+
+ git push -u origin master
